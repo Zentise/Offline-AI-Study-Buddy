@@ -68,8 +68,8 @@ Make sure Ollama is running before you launch Streamlit.
 
 ## 📸 Screenshot
 
-*(Add a screenshot of your UI here)*
 
+![alt text](image.png)
 ---
 
 ## ✍️ Author
