@@ -1,6 +1,7 @@
 import streamlit as st
 import requests
 
+
 st.title("🧠 Offline AI Study Buddy (Mistral via Ollama)")
 
 query = st.text_input("Ask me anything:")
